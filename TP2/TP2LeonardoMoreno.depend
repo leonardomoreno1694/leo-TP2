@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1557535817 source:c:\users\user\desktop\tp2\tp2leonardomoreno - copia\main.c
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"UTN.h"
+
+1557536506 c:\users\user\desktop\tp2\tp2leonardomoreno - copia\utn.h
+	<stdio.h>
+	<conio.h>
+
+1557536485 source:c:\users\user\desktop\tp2\tp2leonardomoreno - copia\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"UTN.h"
+
+1557535817 source:c:\users\user\desktop\tp2leonardomoreno - copia\main.c
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"UTN.h"
+
+1557536506 c:\users\user\desktop\tp2leonardomoreno - copia\utn.h
+	<stdio.h>
+	<conio.h>
+
+1557536485 source:c:\users\user\desktop\tp2leonardomoreno - copia\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"UTN.h"
+
