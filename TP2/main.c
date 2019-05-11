@@ -8,7 +8,7 @@
 int main()
 {
 
-  //eJuegos lista[50];
+  
    Employee arrayEmp[50];
    initEmployees(arrayEmp,50);
    int idincremental=0;
